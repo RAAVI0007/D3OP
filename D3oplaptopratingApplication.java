@@ -1,0 +1,14 @@
+package com.D3OP.rating.d3oplaptoprating;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class D3oplaptopratingApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(D3oplaptopratingApplication.class, args);
+	}
+
+}
+
